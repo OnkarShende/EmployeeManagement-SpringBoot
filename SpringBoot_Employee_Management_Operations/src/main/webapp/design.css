@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+ .body
+{
+	background-image: url("boralus_portal_room_portals.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+} 
+
+.button
+{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-red;
+  font-size: 10px;
+  border-radius: 80%;
+} 
+
+.textbox[type=text]
+{
+  border: 2px solid pink;
+  border-radius: 10px;
+	
+}
+
+
